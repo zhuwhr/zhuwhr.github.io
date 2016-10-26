@@ -120,6 +120,16 @@ body {
                 width: 10px;
                 height: 19px;
             }
+            .snapchat {
+                background-image: url(../img/snapchat.png);
+                width: 10px;
+                height: 19px;
+            }
+            .wechat {
+                background-image: url(../img/wechat.png);
+                width: 10px;
+                height: 19px;
+            }
             .googleplus {
                 background-image: url(../img/googleplus.png);
                 width: 21px;
@@ -140,6 +150,7 @@ body {
                 width: 20px;
                 height: 9px;
             }
+
 
 
 
