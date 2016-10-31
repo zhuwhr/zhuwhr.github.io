@@ -9,3 +9,5 @@ Template and Structure
 Build a staic page
 
 Make it responsive
+
+Credit to HTMLUP templates
