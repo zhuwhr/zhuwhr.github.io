@@ -1,3 +1,28 @@
-name: haoran
+# Site settings
+title: Haoran's web
+description: Just some web stuff
+
+
+# the base hostname & protocol for your site
+# url: "localhost:4000" 
+
+# the subpath of your site, e.g. /blog
+# baseurl: "/blog" 
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+# User settings
+username: Haoran Zhu
+user_description: I love code
+user_title: Software Development Engineer
+email: zhuwhr@gmail.com
+twitter_username: zhuwhr
+github_username:  zhuwhr
+linkedin_username: haoran-zhu
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
