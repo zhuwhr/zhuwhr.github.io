@@ -48,3 +48,6 @@ _testmain.go
 
 # jekyll
 _site/
+
+# log
+log.md
