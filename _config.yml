@@ -4,7 +4,7 @@ description: Just some web stuff
 
 
 # the base hostname & protocol for your site
-# url: "localhost:4000" 
+url: "localhost:4000" 
 
 # the subpath of your site, e.g. /blog
 # baseurl: "/blog" 
