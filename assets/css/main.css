@@ -198,6 +198,10 @@ body {
     margin: 10px auto
 }
 
+.user-details p {
+    text-align: left;
+}
+
 .user-projects {
     margin: 40px auto
 }
