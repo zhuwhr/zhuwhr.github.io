@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "test post"
+title: "dijkstra algorithm"
 date: 2017-07-18
 ---
 
