@@ -3,7 +3,7 @@ title: Haoran Here
 description: Who am I
 
 # the base hostname & protocol for your site
-url: "localhost:4000" 
+url: "zhuwhr.github.io" 
 
 # the subpath of your site, e.g. /blog
 # baseurl: "/blog" 
