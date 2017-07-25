@@ -46,11 +46,11 @@ One More, a web application for gym rats (Python, Django, Postgresql, OAuth)  Ma
 - Built processing payments pipeline and connected server with Stripe API
 - Used Jinja2 template engine to render the configuration file supporting looping, placeholder variables
 
-Get it DONE, a single page web application (React, Redux, Babel) March 2017 – April 2017
+Donate Me (Python, Django, Auth)	                                    May 2017 – June 2017
 
-- Built a to-do list view with reusable components supporting organizing tasks
-- Managed UI component states with Redux middleware
-- Broke down a complex component into many smaller, interchangeable components
+- Built online payment system supporting user authentication with Stripe API
+- Checked log in token to verify user information before charging the credit card
+- Implemented contact form allowing user to send emails to the site owner
 
 Movie Tickets (Node.js, Express, MongoDB)  Jan. 2017 – Feb. 2017
 
